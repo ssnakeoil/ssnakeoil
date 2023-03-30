@@ -1,5 +1,5 @@
-### 🖤🥀 Thanks for visiting 🥀🖤
-My name is Stefi (she/her) and this is where my web development projects live! I love making digital art and sometimes I make games... (nothing complete... yet!)
+### 🖤🥀 𝔚𝔢𝔩𝔠𝔬𝔪𝔢... 🥀🖤
+I'm Stefi (she/her), a full-time cell babysitter 🧫 and this is where my web development projects live! I love making digital art and sometimes I work on visual novels and twine games!
 
 <p align="center">🎮<a href=https://s-nakeoil.itch.io>itch.io</a> • 🎨 <a href="https://www.instagram.com/s.nakeoil/">instagram</a>
 <br><img src="https://pbs.twimg.com/media/FrQr2cLakAAUEuL?format=jpg&name=900x900" width="300" /></p>
