@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🖤🥀 Thanks for visiting 🥀🖤
+My name is Stefi (she/her) and this is where my web development projects live! I love making digital art and sometimes I make games... (nothing complete... yet!)
+
+<p align="center">🎮<a href=https://s-nakeoil.itch.io>itch.io</a> • 🎨 <a href="https://www.instagram.com/s.nakeoil/">instagram</a>
+<br><img src="https://pbs.twimg.com/media/FrQr2cLakAAUEuL?format=jpg&name=900x900" width="300" /></p>
+
 
 <!--
 **ssnakeoil/ssnakeoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
