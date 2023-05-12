@@ -1,8 +1,12 @@
-### 🖤🥀 𝔚𝔢𝔩𝔠𝔬𝔪𝔢... 🥀🖤
-I'm Stefi (she/her), a full-time cell babysitter 🧫 and this is where my web development projects live! I love making digital art and sometimes I work on visual novels!
+# ℌ𝔢𝔩𝔩𝔬! 🥀🖤
 
-<p align="center">🎮<a href=https://s-nakeoil.itch.io>itch.io</a> • 🎨 <a href="https://www.instagram.com/s.nakeoil/">instagram</a>
+#### I'm Stefi (she/her), and I'm:
 
+- 🐝 a front-end focused web developer
+- 🌱 a lifelong student
+- 🧫 a cell babysitter (& executioner... :mask:)
+- 🎨 a digital artist & indie game dev (twine/ren'py) ([instagram](https://www.instagram.com/s.nakeoil/) | [itch](https://s-nakeoil.itch.io))
+- 🎵 a huge [music](https://www.last.fm/user/ssnakeoil) junky
 
 <!--
 **ssnakeoil/ssnakeoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
